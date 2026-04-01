@@ -1,7 +1,9 @@
 <table width="100%">
 <tr>
 <td width="30%" valign="top">
-
+    
+<img
+  src="photo.jpg" width="150"/>
 <br/>
 
 **`public`** `gabriel`
