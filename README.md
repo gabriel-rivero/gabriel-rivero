@@ -3,7 +3,7 @@
 <td width="30%" valign="top">
     
 <img
-  src="photo.jpg" width="150"/>
+  src="photo.jpg" width="250"/>
 <br/>
 
 **`public`** `gabriel`
